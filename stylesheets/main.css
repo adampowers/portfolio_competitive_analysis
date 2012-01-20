@@ -33,3 +33,5 @@ table {
 tr td { text-align: center; }
 
 .site a { font-size: 2em; color: #333; text-underline: 1px dotted black; }
+
+span { color: white; font-size: 1em; }
